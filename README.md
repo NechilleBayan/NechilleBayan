@@ -2,12 +2,14 @@
 
 I'm a senior Knowledge Management professional focused on content strategy and AI-enabled documentation workflows. I build scoped agents, design multi-surface content systems, and own the full cycle from content architecture to publishing. Based in General Santos City, Philippines.
 
+
 ## What I work on
 
-* AI drafting agents and documentation pipelines built on M365 Copilot
-* Knowledge base and Help Center content strategy for Salesforce Knowledge and CMS platforms
-* Chatbot training data and dual-purpose content for AI and human workflows
-* Multi-surface content systems across knowledge bases, macros, Help Centers, and internal tools
+* Knowledge Management workflows for support documentation, including Salesforce Knowledge, Help Center content, macros, internal KBs, and chatbot-ready content
+* AI-assisted documentation systems that help teams draft, format, convert, review, and publish content faster
+* Content operations for migration, cleanup, backlog reduction, publishing consistency, and reusable documentation standards
+* Practical internal tools for KM teams, including HTML converters, drafting prompts, formatting workflows, and documentation pipeline designs
+
 
 ## Featured projects
 
@@ -34,6 +36,7 @@ A three-agent documentation workflow design: Drafter → Formatter → HTML.
 **Purpose:** Shows how AI-assisted documentation work can move from raw input to formatted, publish-ready content with clearer handoffs and review points.
 
 [View project](PASTE-KM-DOCUMENTATION-PIPELINE-LINK-HERE)
+
 
 ## Links
 
