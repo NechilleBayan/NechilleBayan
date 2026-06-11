@@ -1,6 +1,6 @@
 # Nechille Bayan
 
-**Sr. Knowledge Management Expert · Knowledge Management Analyst  ·  Knowledge Systems · AI-Enabled Support Systems**
+**Knowledge Management Analyst  ·  Knowledge Systems · AI-Enabled Support Systems · Content Strategy**
 
 General Santos City, Philippines · [nechillebayan@gmail.com](mailto:nechillebayan@gmail.com) · [LinkedIn](https://linkedin.com/in/nechillebayan)
 
@@ -8,13 +8,13 @@ General Santos City, Philippines · [nechillebayan@gmail.com](mailto:nechillebay
 
 ## PROFESSIONAL SUMMARY
 
-Senior knowledge management professional with a track record of owning content strategy end-to-end — from identifying what needs to exist and why, to leading execution across help centers, AI systems, macros, and internal knowledge bases. Experienced in driving large-scale content migrations, building AI-enabled documentation workflows, and partnering cross-functionally with Product, Support, and operations stakeholders to deliver scalable support experiences. Built and deployed an AI drafting agent that increased team documentation throughput by 2.3x. Currently scoping and leading a Support-wide Copilot agent — translating a Jira ticket into a cross-team solution that reduces documentation and ticket load at scale.
+Knowledge Management Analyst with experience in support documentation, content operations, Salesforce Knowledge migration, and AI-enabled documentation workflows. Builds structured, reusable content systems across knowledge bases, internal workflows, chatbot training use cases, and support-facing tools. Created a Copilot-based AI drafting agent that increased weekly documentation throughput by 2.3x, and mentors KM writers, solutions engineers, and software support teammates on practical AI experimentation, prompt use, and workflow improvements beyond chatbot integration.
 
 ---
 
 ## EXPERIENCE
 
-### Sovos · Knowledge Management Expert
+### Sovos · Knowledge Management Analyst
 *Jun 2025 – Present · Remote / Philippines*
 
 - Owned content strategy for the knowledge management function — defined what content should exist, how it was structured across surfaces (Help Center, KB, chatbot training data, macros), and how it served both AI and human workflows.
@@ -22,6 +22,13 @@ Senior knowledge management professional with a track record of owning content s
 - Built an AI drafting agent that cut cold-start friction and increased weekly documentation throughput by 2.3x, with output consistently passing SME review with minimal revision — demonstrating quality at scale, not just speed.
 - Partnered with SMEs, Support leads, and cross-functional stakeholders to migrate and restructure legacy content into Salesforce Knowledge, producing dual-purpose content: customer-facing Help Center articles and structured training data for the support chatbot.
 - Set documentation standards and workflows that enabled consistent, high-quality output across the team and aligned with evolving product and compliance requirements.
+- Mentored KM writers, solutions engineers, and software support teammates on practical AI experimentation, helping teams identify improvements in drafting, formatting, content cleanup, internal tools, and support workflows beyond chatbot integration.
+- Shared repeatable prompts, workflow examples, and tool-use patterns to encourage responsible AI adoption across KM and Support-adjacent teams.
+- Created structured, reusable support content for Salesforce Knowledge, internal knowledge workflows, and chatbot training use cases, aligning article structure with customer self-service, support agent workflows, and scalable content maintenance.
+- Created structured, reusable support content for Salesforce Knowledge, internal knowledge workflows, and chatbot training use cases, aligning article structure with customer self-service, support agent workflows, and scalable content maintenance.
+
+
+
 
 ### Accenture, Inc. · Technical Content Writer — Knowledge Management
 *Jun 2023 – May 2025 · Taguig, Philippines*
@@ -42,12 +49,11 @@ Senior knowledge management professional with a track record of owning content s
 
 ## SKILLS & TOOLS
 
-**Content Strategy & KM:** Knowledge Management, Content Strategy, Information Architecture, Help Center & KB Design, Multi-surface Content (AI, macros, internal tools), Content Operations, Chatbot Training Data
+**Content Strategy & KM:** Knowledge Management, Content Strategy, Content Operations, Information Architecture, Salesforce Knowledge, Help Center & KB Design, Content Migration, Content Governance, Multi-surface Support Content, Chatbot Training Content, Documentation Standards
 
-**AI & Tooling:** AI Agent Development, Copilot (Microsoft), Prompt Design, Vertex AI, Salesforce Knowledge, CMS Platforms, Jira, AWS, Azure
+**AI & Tooling:** AI Agent Development, Microsoft Copilot, Prompt Design, AI-Assisted Documentation Workflows, AI Experimentation, AI Adoption Enablement, Documentation Pipeline Design, Internal Workflow Tools, Vertex AI, CMS Platforms, Jira, AWS, Azure
 
-**Collaboration:** SME Partnership, Cross-functional Stakeholder Influence, BPO Coordination, Technical Writing, Content Migration
-
+**Collaboration:** AI Mentoring, SME Partnership, Cross-functional Stakeholder Influence, Support Enablement, Solutions Engineering Collaboration, Software Support Collaboration, BPO / Partner Coordination, Technical Writing
 ---
 
 ## EDUCATION
